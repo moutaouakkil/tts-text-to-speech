@@ -1,7 +1,6 @@
 #!/bin/python
 # Belong to (TTS) Script
-# Written by: Othmane Moutaouakkil [ WHOAMI2507 ]  (You don't become a coder by just changing the credits)
-# Github: https://github.com/whoami2507
+# Written by: Othmane Moutaouakkil [ moutaouakkil ]
 
 
 
